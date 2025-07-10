@@ -1,0 +1,10 @@
+# Dane i modele
+/data/
+/experiments/models/
+/experiments/logs/
+/experiments/predictions/
+/submission/
+*.pyc
+__pycache__/
+.env
+.ipynb_checkpoints/ 
